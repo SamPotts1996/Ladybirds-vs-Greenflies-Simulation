@@ -1,0 +1,11 @@
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\bin\Debug\netcoreapp3.1\AI_Assignment_1514433.exe
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\bin\Debug\netcoreapp3.1\AI_Assignment_1514433.deps.json
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\bin\Debug\netcoreapp3.1\AI_Assignment_1514433.runtimeconfig.json
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\bin\Debug\netcoreapp3.1\AI_Assignment_1514433.runtimeconfig.dev.json
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\bin\Debug\netcoreapp3.1\AI_Assignment_1514433.dll
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\bin\Debug\netcoreapp3.1\AI_Assignment_1514433.pdb
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\obj\Debug\netcoreapp3.1\AI_Assignment_1514433.csprojAssemblyReference.cache
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\obj\Debug\netcoreapp3.1\AI_Assignment_1514433.AssemblyInfoInputs.cache
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\obj\Debug\netcoreapp3.1\AI_Assignment_1514433.AssemblyInfo.cs
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\obj\Debug\netcoreapp3.1\AI_Assignment_1514433.dll
+C:\Users\Sam\Source\Repos\AI_Programming_Assignment_1514433\obj\Debug\netcoreapp3.1\AI_Assignment_1514433.pdb
